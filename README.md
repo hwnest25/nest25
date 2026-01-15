@@ -1,1 +1,1 @@
-# nest25
+# DHBW New Study Informatik - NeSt25
